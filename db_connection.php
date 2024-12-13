@@ -2,7 +2,7 @@
 // Replace these with your database credentials
 $host = "localhost";
 $username = "jesy";
-$password = "1234";
+$password = "12345";
 $database = "hardware_store";
 
 // Create connection
